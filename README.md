@@ -9,6 +9,7 @@ This work is focused on the problem of calibrating the value of shared content o
 For more details please check on the blog link below :
 https://manaliraut2.medium.com/and-the-machine-replied-i-do-3a3033f8985c 
 
-
+You can visit the ML app here : https://arm-based-recommender-system.herokuapp.com/
+You can visit youtube also for demo video here : https://www.youtube.com/watch?v=l8NHtpowqkI&feature=youtu.be
 
 
