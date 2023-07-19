@@ -12,4 +12,4 @@ https://manaliraut2.medium.com/and-the-machine-replied-i-do-3a3033f8985c
 You can visit the ML app here : https://arm-based-recommender-system.herokuapp.com/
 You can visit youtube also for demo video here : https://www.youtube.com/watch?v=l8NHtpowqkI&feature=youtu.be
 
-
+If you find the article useful, You can buy me a book here : https://bmc.link/manaliraut
